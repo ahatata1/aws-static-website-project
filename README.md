@@ -1,3 +1,4 @@
+
 # AWS Static Website Project 🌐
 
 This project demonstrates how to host a static website using AWS services:
@@ -20,15 +21,15 @@ This project demonstrates how to host a static website using AWS services:
 ![Edit Policy](screenshots/edit%20bucket%20policy.png)
 
 ### 4️⃣ Create CloudFront Distribution  
-![CloudFront Setup](screenshots/cloudfront%20distribution.png)
+📌 *Screenshot coming soon...*
 
 ### 5️⃣ Test Website  
-![Test Website](screenshots/test%20website.png)
+📌 *Screenshot coming soon...*
 
 ---
 
 ## 📸 Screenshots
-All screenshots are stored in the `screenshots` folder for full reference.
+All available screenshots are stored in the `screenshots` folder for full reference.
 
 ---
 
